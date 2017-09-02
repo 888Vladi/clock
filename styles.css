@@ -1,0 +1,32 @@
+#digital_watch {
+    color: #f00;
+    font-size: 250%;
+    font-weight: bold;
+    text-align: center;
+    margin: 8%;
+}
+
+.watch_style {
+    border: 2px solid black;
+    width: 250px;
+    margin: 20% 40%;
+    background: #010600;
+    border-radius: 10px;
+}
+
+.btn {
+    text-align: center;
+    margin: 10%;
+}
+
+.btn_style,
+btn_on {
+    background: blue;
+    color: white;
+    width: 38px;
+    border-radius: 8px;
+}
+
+.btn_off {
+    background: red;
+}
